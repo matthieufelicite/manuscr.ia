@@ -1,0 +1,14 @@
+{
+	"name": "manuscr.ia",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+
+		"watch": "",
+		"build": ""
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
+}
