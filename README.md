@@ -1,1 +1,1 @@
-# manuscria
+# MANUSCR.IA
